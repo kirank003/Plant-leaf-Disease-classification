@@ -22,3 +22,4 @@ python main.py
     <source src="./README FILES/LEAF DISEASE DETECTION - Google Chrome 2022-12-30 12-51-28_compressed.mp4" type="video/mp4">
   </video>
 </figure> -->
+![Leaf Disease Detection Screenshot]("./Screenshot 2024-08-26 163348.png")
