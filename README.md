@@ -22,4 +22,4 @@ python main.py
     <source src="./README FILES/LEAF DISEASE DETECTION - Google Chrome 2022-12-30 12-51-28_compressed.mp4" type="video/mp4">
   </video>
 </figure> -->
-![Leaf Disease Detection Screenshot]("./Screenshot 2024-08-26 163348.png")
+![Leaf Disease Detection Screenshot]("https://github.com/kirank003/Plant-leaf-Disease-classification/blob/7eaf340a2c1ae7a88dab22ba91b70bea3cb229aa/Screenshot%202024-08-26%20163348.png")
